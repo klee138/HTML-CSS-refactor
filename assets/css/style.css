@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* these 3 classes contain the same settings. Possible to combine into 1 class?*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -100,7 +100,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* these 3 classes contain the same settings. Possible to combine into 1 class?*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
